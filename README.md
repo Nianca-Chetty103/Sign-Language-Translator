@@ -5,3 +5,5 @@
 ## How does this help the community
 
 ## Tech Stack 
+- python programming
+- tenflow
